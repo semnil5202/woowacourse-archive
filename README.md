@@ -14,8 +14,8 @@
 |     |                  | [javascript-lotto-step-2](https://github.com/semnil5202/javascript-lotto/tree/step2)               | [pull-request](https://github.com/woowacourse/javascript-lotto/pull/244)       | [page](https://semnil5202.github.io/javascript-lotto/)             |
 | 3   | 점심 뭐 먹지     | [javascript-lunch-step-1](https://github.com/semnil5202/javascript-lunch/tree/step1)               | [pull-request](https://github.com/woowacourse/javascript-lunch/pull/9)         | [page](https://semnil5202.github.io/javascript-lunch/dist/)        |
 |     |                  | [javascript-lunch-step-2](https://github.com/semnil5202/javascript-lunch/tree/step2)               | [pull-request](https://github.com/woowacourse/javascript-lunch/pull/93)        | [page](https://semnil5202.github.io/javascript-lunch/dist/)        |
-| 4   | 영화 리뷰        | [javascript-movie-review-step-1](https://github.com/semnil5202/javascript-movie-review/tree/step1) | [pull-request](https://github.com/woowacourse/javascript-movie-review/pull/12) | [page](https://semnil5202.github.io/javascript-movie-review/dist/) |
-|     |                  | [javascript-movie-review-step-2](https://github.com/semnil5202/javascript-movie-review/tree/step2) | [pull-request](https://github.com/woowacourse/javascript-movie-review/pull/66) | [page](https://semnil5202.github.io/javascript-movie-review/dist/) |
+| 4   | 영화 리뷰        | [javascript-movie-review-step-1](https://github.com/semnil5202/javascript-movie-review/tree/step1) | [pull-request](https://github.com/woowacourse/javascript-movie-review/pull/12) | [page](https://semnil5202.github.io/javascript-movie-review/) |
+|     |                  | [javascript-movie-review-step-2](https://github.com/semnil5202/javascript-movie-review/tree/step2) | [pull-request](https://github.com/woowacourse/javascript-movie-review/pull/66) | [page](https://semnil5202.github.io/javascript-movie-review/) |
 
 ## 레벨 2
 
